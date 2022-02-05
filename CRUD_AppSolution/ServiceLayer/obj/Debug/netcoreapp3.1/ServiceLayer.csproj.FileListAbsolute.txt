@@ -1,0 +1,15 @@
+C:\Users\JAYANTA GHOSH\Desktop\OnionArchitectureApp\CRUD_AppSolution\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JAYANTA GHOSH\Desktop\OnionArchitectureApp\CRUD_AppSolution\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.AssemblyInfoInputs.cache
+C:\Users\JAYANTA GHOSH\Desktop\OnionArchitectureApp\CRUD_AppSolution\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.AssemblyInfo.cs
+C:\Users\JAYANTA GHOSH\Desktop\OnionArchitectureApp\CRUD_AppSolution\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\JAYANTA GHOSH\Desktop\OnionArchitectureApp\CRUD_AppSolution\ServiceLayer\bin\Debug\netcoreapp3.1\ServiceLayer.deps.json
+C:\Users\JAYANTA GHOSH\Desktop\OnionArchitectureApp\CRUD_AppSolution\ServiceLayer\bin\Debug\netcoreapp3.1\ServiceLayer.dll
+C:\Users\JAYANTA GHOSH\Desktop\OnionArchitectureApp\CRUD_AppSolution\ServiceLayer\bin\Debug\netcoreapp3.1\ServiceLayer.pdb
+C:\Users\JAYANTA GHOSH\Desktop\OnionArchitectureApp\CRUD_AppSolution\ServiceLayer\bin\Debug\netcoreapp3.1\DomainLayer.dll
+C:\Users\JAYANTA GHOSH\Desktop\OnionArchitectureApp\CRUD_AppSolution\ServiceLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.dll
+C:\Users\JAYANTA GHOSH\Desktop\OnionArchitectureApp\CRUD_AppSolution\ServiceLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.pdb
+C:\Users\JAYANTA GHOSH\Desktop\OnionArchitectureApp\CRUD_AppSolution\ServiceLayer\bin\Debug\netcoreapp3.1\DomainLayer.pdb
+C:\Users\JAYANTA GHOSH\Desktop\OnionArchitectureApp\CRUD_AppSolution\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.csproj.AssemblyReference.cache
+C:\Users\JAYANTA GHOSH\Desktop\OnionArchitectureApp\CRUD_AppSolution\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.csproj.CopyComplete
+C:\Users\JAYANTA GHOSH\Desktop\OnionArchitectureApp\CRUD_AppSolution\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.dll
+C:\Users\JAYANTA GHOSH\Desktop\OnionArchitectureApp\CRUD_AppSolution\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.pdb
